@@ -1,0 +1,17 @@
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\bin\Debug\netcoreapp2.0\CoreHandler.deps.json
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\bin\Debug\netcoreapp2.0\CoreHandler.dll
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\bin\Debug\netcoreapp2.0\CoreHandler.pdb
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.csproj.CoreCompileInputs.cache
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.AssemblyInfoInputs.cache
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.AssemblyInfo.cs
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.dll
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.pdb
+D:\Projects\Ansarada\OpenWeatherService\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.csprojAssemblyReference.cache
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\bin\Debug\netcoreapp2.0\CoreHandler.deps.json
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\bin\Debug\netcoreapp2.0\CoreHandler.dll
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\bin\Debug\netcoreapp2.0\CoreHandler.pdb
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.csproj.CoreCompileInputs.cache
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.AssemblyInfoInputs.cache
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.AssemblyInfo.cs
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.dll
+D:\Projects\Ansarada\AnsaradaWeatherApp\CoreHandler\obj\Debug\netcoreapp2.0\CoreHandler.pdb

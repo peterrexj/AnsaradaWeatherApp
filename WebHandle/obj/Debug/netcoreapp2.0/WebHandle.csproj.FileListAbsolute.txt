@@ -1,0 +1,6 @@
+D:\Projects\Ansarada\OpenWeatherService\WebHandle\bin\Debug\netcoreapp2.0\WebHandle.deps.json
+D:\Projects\Ansarada\OpenWeatherService\WebHandle\bin\Debug\netcoreapp2.0\WebHandle.dll
+D:\Projects\Ansarada\OpenWeatherService\WebHandle\obj\Debug\netcoreapp2.0\WebHandle.csprojAssemblyReference.cache
+D:\Projects\Ansarada\OpenWeatherService\WebHandle\obj\Debug\netcoreapp2.0\WebHandle.csproj.CoreCompileInputs.cache
+D:\Projects\Ansarada\OpenWeatherService\WebHandle\obj\Debug\netcoreapp2.0\WebHandle.AssemblyInfoInputs.cache
+D:\Projects\Ansarada\OpenWeatherService\WebHandle\obj\Debug\netcoreapp2.0\WebHandle.AssemblyInfo.cs
