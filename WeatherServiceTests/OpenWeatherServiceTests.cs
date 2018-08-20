@@ -85,5 +85,20 @@ namespace WeatherServiceTests
             Assert.IsTrue(temperatures.Count() > 0, "Temperature data is missing from the Weather Information result");
             Assert.IsTrue(temperatures.Select(t => t.AsDouble()).Any(), "The temperature data received is not in the correct format");
         }
+
+        [TestMethod]
+        public void Get_Live_Forecast_Json()
+        {
+            IOpenWeatherApiKeyProvider openWeatherApiKeyProvider = new OpenWeatherApiKeyService();
+            IOpenWeatherEnvironmentProvider openWeatherEnvironmentProvider = new OpenWeatherEnvironmentService();
+            IOpenWeatherQueryBuilderProvider openWeatherQueryBuilderProvider = new OpenWeatherQueryBuilderService(openWeatherApiKeyProvider);
+            IOpenWeatherServiceProvider openWeatherServiceProvider = new OpenWeatherService(openWeatherEnvironmentProvider, openWeatherQueryBuilderProvider);
+
+            var respResult = openWeatherServiceProvider
+                .ForcastWeatherByCity("Sydney", "json")
+                .AsJson();
+
+            Assert.IsTrue(Convert.ToString(respResult?.city?.name) == "Sydney", "The sample response did not resolve and return the expected data. City name did not match");
+        }
     }
 }
