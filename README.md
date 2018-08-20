@@ -12,6 +12,6 @@ There are five components in the solution
 The scope for implementing Unit tests are very high in each component and not defined not but left with a place holder.
 
 Connected with Travis-CI.
-SonarCloud not connected which requires more time.
+SonarCloud not connected as of now, learning phase, and will be implementing soon.
 
 Total time for the solution implementation: Close to ~7 hours including all layers.
