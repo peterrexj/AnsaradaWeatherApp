@@ -10,3 +10,8 @@ There are five components in the solution
 - Tests - All core layers are interface implemented and used as dependency injection pattern and helps in unit testing each individual component in detail.
 
 The scope for implementing Unit tests are very high in each component and not defined not but left with a place holder.
+
+Connected with Travis-CI.
+SonarCloud not connected which requires more time.
+
+Total time for the solution implementation: Close to ~7 hours including all layers.
