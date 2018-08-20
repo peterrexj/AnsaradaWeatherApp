@@ -10,4 +10,4 @@ script:
  - dotnet build
  - dotnet test WeatherServiceTests/WeatherServiceTests.csproj
  - dotnet test WebHandlerTests/WebHandlerTests.csproj
- - dotnet test CoreHandler/CoreHandler.csproj
+ - dotnet test CoreHandlerTests/CoreHandlerTests.csproj
